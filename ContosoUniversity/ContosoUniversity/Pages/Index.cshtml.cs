@@ -9,7 +9,7 @@ namespace ContosoUniversity.Pages
 {
     public class IndexModel : PageModel
     {
-        public void OnGet()
+        public void OnGetAsync()
         {
 
         }
